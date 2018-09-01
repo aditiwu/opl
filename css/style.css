@@ -1,0 +1,25 @@
+.button2{background-color: white;color: #54a0ff;border: 2px solid #54a0ff;}
+.button2:hover {background-color: #54a0ff;color: white;}
+.card {box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);}
+.logo {color: #54a0ff;}
+.mlogo {color: #FFF;}
+
+hr.style1{
+	border-top: 1px solid #FFF;
+}
+
+hr.style2{
+	border-top: 1px solid #54a0ff;
+}
+
+.bgtype1{
+  background-color: #FFF;
+  color: #54a0ff;
+  padding: 35px 20px;
+}
+
+.bgtype2{
+  background-color: #54a0ff;
+  color: #FFF;
+  padding: 35px 20px;
+}
